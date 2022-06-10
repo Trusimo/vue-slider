@@ -27,3 +27,16 @@ const slides = [
 ];
 
 console.log(slides);
+
+const appVue = new Vue({
+    el: "#app",
+
+    data: {
+
+    },
+    methods: {
+        changeOnClick: function() {
+            
+        }
+    }
+})
